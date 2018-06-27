@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Instytyts">
+    <Key>
+      <PropertyRef Name="Instytyts_id" />
+    </Key>
+    <Property Name="Instytyts_id" Type="int" Nullable="false" />
+    <Property Name="Instytyts_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Director" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kafedra">
+    <Key>
+      <PropertyRef Name="Kafedra_id" />
+    </Key>
+    <Property Name="Kafedra_id" Type="int" Nullable="false" />
+    <Property Name="Kafedra_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kafedra_zav" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Count_Doctor_Science" Type="int" />
+    <Property Name="Inst_Kaf_FK" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Subjects">
+    <Key>
+      <PropertyRef Name="Subject_id" />
+    </Key>
+    <Property Name="Subject_id" Type="int" Nullable="false" />
+    <Property Name="Subject_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Subject_hour" Type="int" Nullable="false" />
+    <Property Name="Subject_Type_Ex" Type="nchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Teachers">
+    <Key>
+      <PropertyRef Name="Teachers_id" />
+    </Key>
+    <Property Name="Teachers_id" Type="int" Nullable="false" />
+    <Property Name="Teachers_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Teachers_age" Type="int" Nullable="false" />
+    <Property Name="Teachers_level" Type="nvarchar" MaxLength="50" />
+    <Property Name="Teachers_phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kaf_Teach_FK" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Teachers_Subject">
+    <Key>
+      <PropertyRef Name="Teacher_Subject_id" />
+    </Key>
+    <Property Name="Teacher_Subject_id" Type="int" Nullable="false" />
+    <Property Name="Teachers_FK" Type="int" Nullable="false" />
+    <Property Name="Subject_FK" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Kafedra_Instytyts">
+    <End Role="Instytyts" Type="Self.Instytyts" Multiplicity="1" />
+    <End Role="Kafedra" Type="Self.Kafedra" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Instytyts">
+        <PropertyRef Name="Instytyts_id" />
+      </Principal>
+      <Dependent Role="Kafedra">
+        <PropertyRef Name="Inst_Kaf_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teachers_Kafedra">
+    <End Role="Kafedra" Type="Self.Kafedra" Multiplicity="1" />
+    <End Role="Teachers" Type="Self.Teachers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kafedra">
+        <PropertyRef Name="Kafedra_id" />
+      </Principal>
+      <Dependent Role="Teachers">
+        <PropertyRef Name="Kaf_Teach_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teachers_Subject_Subjects">
+    <End Role="Subjects" Type="Self.Subjects" Multiplicity="1" />
+    <End Role="Teachers_Subject" Type="Self.Teachers_Subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subjects">
+        <PropertyRef Name="Subject_id" />
+      </Principal>
+      <Dependent Role="Teachers_Subject">
+        <PropertyRef Name="Subject_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Teachers_Subject_Teachers">
+    <End Role="Teachers" Type="Self.Teachers" Multiplicity="1" />
+    <End Role="Teachers_Subject" Type="Self.Teachers_Subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="Teachers_id" />
+      </Principal>
+      <Dependent Role="Teachers_Subject">
+        <PropertyRef Name="Teachers_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Instytyts" EntityType="Self.Instytyts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kafedra" EntityType="Self.Kafedra" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subjects" EntityType="Self.Subjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teachers" EntityType="Self.Teachers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teachers_Subject" EntityType="Self.Teachers_Subject" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kafedra_Instytyts" Association="Self.FK_Kafedra_Instytyts">
+      <End Role="Instytyts" EntitySet="Instytyts" />
+      <End Role="Kafedra" EntitySet="Kafedra" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teachers_Kafedra" Association="Self.FK_Teachers_Kafedra">
+      <End Role="Kafedra" EntitySet="Kafedra" />
+      <End Role="Teachers" EntitySet="Teachers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teachers_Subject_Subjects" Association="Self.FK_Teachers_Subject_Subjects">
+      <End Role="Subjects" EntitySet="Subjects" />
+      <End Role="Teachers_Subject" EntitySet="Teachers_Subject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Teachers_Subject_Teachers" Association="Self.FK_Teachers_Subject_Teachers">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="Teachers_Subject" EntitySet="Teachers_Subject" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
