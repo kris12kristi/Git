@@ -1,0 +1,7 @@
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\bin\Debug\Laba4.exe.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\bin\Debug\Laba4.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\bin\Debug\Laba4.pdb
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\obj\Debug\Laba4.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba4\Laba4\obj\Debug\Laba4.pdb
