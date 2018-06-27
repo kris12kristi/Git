@@ -1,0 +1,2 @@
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba6\Laba6\obj\Debug\Laba6.csprojResolveAssemblyReference.cache
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
