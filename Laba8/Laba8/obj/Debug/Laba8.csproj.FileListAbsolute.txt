@@ -1,0 +1,282 @@
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\ApplicationInsights.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csc.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csc.exe.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csc.rsp
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csi.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csi.exe.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\csi.rsp
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\Microsoft.Win32.Primitives.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.AppContext.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Collections.Immutable.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Console.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Diagnostics.Process.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.IO.Compression.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.IO.Pipes.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Reflection.Metadata.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.AccessControl.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Claims.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Security.Principal.Windows.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Threading.Thread.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.ValueTuple.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Xml.XmlDocument.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Xml.XPath.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\vbc.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\vbc.exe.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\vbc.rsp
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Laba8.dll.config
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Laba8.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Laba8.pdb
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Antlr3.Runtime.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.Agent.Intercept.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.PerfCounterCollector.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.Web.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.ApplicationInsights.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.Web.Infrastructure.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Newtonsoft.Json.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Helpers.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Mvc.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Optimization.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Razor.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.Deployment.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.Razor.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\WebGrease.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Helpers.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Mvc.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Optimization.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.Razor.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.Deployment.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\System.Web.WebPages.Razor.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Antlr3.Runtime.pdb
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Newtonsoft.Json.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.ApplicationInsights.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\Microsoft.AI.Web.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\obj\Debug\Laba8.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\obj\Debug\Laba8.pdb
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\EntityFramework.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\EntityFramework.SqlServer.dll
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\EntityFramework.xml
+X:\Христік\Політех\3 курс\Технології компютерного проектування\Лаби\Laba8\Laba8\bin\EntityFramework.SqlServer.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\ApplicationInsights.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csc.exe
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csc.exe.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csc.rsp
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csi.exe
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csi.exe.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\csi.rsp
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.AppContext.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Console.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.IO.Compression.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Claims.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Threading.Thread.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.ValueTuple.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\vbc.exe
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\vbc.exe.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\vbc.rsp
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Laba8.dll.config
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Laba8.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Laba8.pdb
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Antlr3.Runtime.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\EntityFramework.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\EntityFramework.SqlServer.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.Web.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Newtonsoft.Json.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Helpers.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Mvc.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Optimization.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Razor.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Razor.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\WebGrease.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\EntityFramework.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\EntityFramework.SqlServer.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Helpers.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Mvc.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Optimization.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.Razor.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Razor.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Antlr3.Runtime.pdb
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Newtonsoft.Json.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\bin\Microsoft.AI.Web.xml
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\obj\Debug\Laba8.dll
+C:\Users\DR.HOUSE\Desktop\Laba8\Laba8\obj\Debug\Laba8.pdb
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\ApplicationInsights.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csc.exe
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csc.exe.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csc.rsp
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csi.exe
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csi.exe.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\csi.rsp
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.AppContext.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Console.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Claims.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\vbc.exe
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\vbc.exe.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\vbc.rsp
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Laba8.dll.config
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Laba8.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Laba8.pdb
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Antlr3.Runtime.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\EntityFramework.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\EntityFramework.SqlServer.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.Web.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Newtonsoft.Json.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Helpers.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Mvc.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Optimization.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Razor.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\WebGrease.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\EntityFramework.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\EntityFramework.SqlServer.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Helpers.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Mvc.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Optimization.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.Razor.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Antlr3.Runtime.pdb
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Newtonsoft.Json.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\bin\Microsoft.AI.Web.xml
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\obj\Debug\Laba8.csprojResolveAssemblyReference.cache
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\obj\Debug\Laba8.dll
+C:\Users\Христина Руснак\Desktop\Laba8\Laba8\obj\Debug\Laba8.pdb
